@@ -1,0 +1,24 @@
+html, body {
+    background-color: #495159;
+    color: #086788;
+}
+
+header {
+    border: 3px solid rgb(0, 41, 128);
+}
+
+.card {
+    background-color: #FFF1D0;
+    border: 3px solid rgb(13, 0, 128);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.p-2 {
+    text-align: center;
+    color: black;
+}
+
+.breadcrumb-item {
+    text-align: center;
+}
